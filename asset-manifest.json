@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Pluviae/static/css/main.dfe57d51.chunk.css",
+    "main.js": "/Pluviae/static/js/main.2f424eaf.chunk.js",
+    "main.js.map": "/Pluviae/static/js/main.2f424eaf.chunk.js.map",
+    "runtime~main.js": "/Pluviae/static/js/runtime~main.5595a7f0.js",
+    "runtime~main.js.map": "/Pluviae/static/js/runtime~main.5595a7f0.js.map",
+    "static/js/2.c62a4923.chunk.js": "/Pluviae/static/js/2.c62a4923.chunk.js",
+    "static/js/2.c62a4923.chunk.js.map": "/Pluviae/static/js/2.c62a4923.chunk.js.map",
+    "index.html": "/Pluviae/index.html",
+    "precache-manifest.302fe213aef619f331514d98664c4a89.js": "/Pluviae/precache-manifest.302fe213aef619f331514d98664c4a89.js",
+    "service-worker.js": "/Pluviae/service-worker.js",
+    "static/css/main.dfe57d51.chunk.css.map": "/Pluviae/static/css/main.dfe57d51.chunk.css.map",
+    "static/media/logo.png": "/Pluviae/static/media/logo.08bcb7e8.png",
+    "static/media/settings.svg": "/Pluviae/static/media/settings.913daeee.svg"
+  }
+}
