@@ -5,7 +5,6 @@ import axios from "axios";
 
 export default class MapComponent extends Component {
     state = {
-        mapHeight: window.innerHeight - 18,
         map: false,
     };
 
@@ -15,8 +14,8 @@ export default class MapComponent extends Component {
         this.setState(
             {
                 map: L.map('map', {
-                    center: [37.775539, -120.6],
-                    zoom: 10,
+                    center: [38.6, -122.2],
+                    zoom: 12,
                     zoomControl: true,
                 }),
             },
@@ -86,7 +85,7 @@ export default class MapComponent extends Component {
     render() {
         return (
             <div className="MapComponent">
-                <Map mapHeight={this.state.mapHeight} />
+                <Map mapHeight={window.innerHeight} />
             </div>
         );
     }

@@ -1,6 +1,46 @@
+.Button {
+    position: absolute;
+    z-index: 400;
+    background: lawngreen;
+    padding: 10px;
+
+    border-radius: 50%;
+    border: none;
+
+    height: 10vh;
+    width: 10vh;
+}
+.OfflineInfoButton {
+    bottom: 3%;
+    left: 4%;
+}
+.SettingsButton {
+    bottom: 3%;
+    right: 4%;
+}
+.BackButton {
+    bottom: 3%;
+    left: 4%;
+}
+
+.Image {
+    max-width: 90%;
+    max-height: 90%;
+}
+
 /*.App {*/
-  /*text-align: center;*/
+    /*height: 100%;*/
+    /*width: 100%;*/
 /*}*/
+
+html {
+    height: 100%;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
 
 /*.App-logo {*/
   /*animation: App-logo-spin infinite 20s linear;*/
